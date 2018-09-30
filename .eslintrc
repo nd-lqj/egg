@@ -1,0 +1,12 @@
+{
+    "extends": "eslint-config-egg",
+    "parserOptions": {
+        "ecmaVersion": 2018,
+        "ecmaFeature": {
+            "experimentalObjectRestSpread": true
+        }
+    },
+    "rules": {
+        "linebreak-style": "off"
+    }
+}

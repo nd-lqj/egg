@@ -1,0 +1,4 @@
+2018-09-29 15:57:14,366 INFO 5880 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2018-09-29 16:30:52,309 INFO 17900 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2018-09-29 16:30:58,883 INFO 14728 [egg-sequelize](2ms) Executed (default): SELECT 1+1 AS result
+2018-09-29 16:31:02,168 INFO 13616 [egg-sequelize](3ms) Executed (default): SELECT 1+1 AS result

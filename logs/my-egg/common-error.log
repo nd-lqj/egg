@@ -1,0 +1,12 @@
+2018-09-28 18:09:31,464 ERROR 5092 nodejs.EPERMError: Error watching file for changes: EPERM
+    at _errnoException (util.js:992:11)
+    at FSEvent.FSWatcher._handle.onchange (fs.js:1359:9)
+code: "EPERM"
+errno: "EPERM"
+syscall: "Error watching file for changes:"
+filename: null
+dir: "E:\\projects\\my-egg\\app\\view"
+name: "EPERMError"
+pid: 5092
+hostname: DESKTOP-95SGFEG
+
